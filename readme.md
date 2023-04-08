@@ -6,13 +6,13 @@
 - Test Script
 
 ### Setup
-`npm install`
-`npx hardhat compile`
+- `npm install`
+- `npx hardhat compile`
 
 ### Test:
-`npx hardhat node`
-`npx hardhat test` (in separate terminal)
+- `npx hardhat node`
+- `npx hardhat test` (in separate terminal)
 
 ### Deploy
-`npx hardhat run scripts/deploy.js`
+- `npx hardhat run scripts/deploy.js`
 
